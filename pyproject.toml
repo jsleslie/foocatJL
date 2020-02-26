@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "foocatJL"
+version = "'0.1.0'"
+description = "Sample python package for demonstration"
+authors = ["Jarome Leslie <jsleslie@users.noreply.github.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "Yes"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
