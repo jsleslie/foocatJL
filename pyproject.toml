@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "foocatJL"
-version = "'0.1.0'"
+version = "0.1.0"
 description = "Sample python package for demonstration"
 authors = ["Jarome Leslie <jsleslie@users.noreply.github.com>"]
 license = "MIT"
