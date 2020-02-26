@@ -6,7 +6,7 @@ authors = ["Jarome Leslie <jsleslie@users.noreply.github.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
-python = "Yes"
+python = "^3.7"
 
 [tool.poetry.dev-dependencies]
 
